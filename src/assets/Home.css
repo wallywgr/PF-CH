@@ -1,0 +1,14 @@
+.home{
+    background-color: rgb(194, 183, 183);
+}
+p .fas{
+    font-size: 15rem;
+    color: #343a40;
+}
+.card-img, .card-img-top {
+    height: 20rem!important;
+    padding: 3rem;
+}
+.banner{
+    background-color: #fff;
+}
