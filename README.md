@@ -38,4 +38,4 @@ $ npm start
 
 ### Desarrollo
 
-Desarrollado por [Walter Gustavo Rojo](https://github.com/wallywgr) para el Curso de ReactJS en [Coderhouse](https://www.coderhouse.com/)
+Desarrollado por [Walter Gustavo Rojo](https://github.com/wallywgr) para el Curso de ReactJS en [Ch]
